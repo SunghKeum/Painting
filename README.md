@@ -17,3 +17,6 @@ In this SQL project, I use Python packages (psycopg2, pandas, and sqlalchemy) un
 
 <h2>Uploading CSV files to PostgreSQL database using Python scripts</h2>
 
+<p align="center">
+  <img width="1200" height="600" src="/Python Code.png">
+</p>
