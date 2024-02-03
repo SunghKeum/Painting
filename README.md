@@ -6,8 +6,7 @@ In this SQL project, I use Python packages (psycopg2, pandas, and sqlalchemy) un
 
 <h2>🛠 Skills Acquired and Gained</h2>
 
-- psycopg2 
-- sqlalchemy
+- Connecting Python to PostgreSQL Database Server
 - JOIN
 - UNION
 - SUBQUERY
