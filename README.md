@@ -6,7 +6,8 @@ In this SQL project, I use Python packages (psycopg2, pandas, and sqlalchemy) un
 
 <h2>🛠 Skills Acquired and Gained</h2>
 
-- psycopg2 & sqlalchemy
+- psycopg2 
+- sqlalchemy
 - JOIN
 - UNION
 - SUBQUERY
