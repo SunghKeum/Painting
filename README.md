@@ -32,6 +32,3 @@ for file in files:
     df.to_sql(file, con=conn, if_exists='replace', index=False)
 ```
 
-<p align="center">
-  <img width="1200" height="600" src="/Python Code.png">
-</p>
