@@ -1,6 +1,6 @@
 <h1>Painting (SQL Project)</h1>
 
-<h2>📝 Project Description</h2>https://github.com/SunghKeum/Painting/blob/main/README.md
+<h2>📝 Project Description</h2>
 
 In this SQL project, I use Python packages (psycopg2, pandas, and sqlalchemy) under Jupyter Notebook environment to upload data from CSV files to PostgreSQL database tables. After import, I use SQL queries to answer several questions related to the famous paintings dataset. You can view the data used for this project [here](https://www.kaggle.com/datasets/mexwell/famous-paintings).
 
@@ -33,7 +33,7 @@ for file in files:
 ```
 <h2>Question 1: Retrieve all the paintings which are not displayed on any museums</h2>
 <p align="center">
-  <img width="1000" height="400" src="/Painting/Question 1.png">
+  <img width="1200" height="600" src="/Painting/Question 1.png">
 </p>
 
 
