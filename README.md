@@ -33,7 +33,7 @@ for file in files:
 ```
 <h2>Question 1: Retrieve all the paintings which are not displayed on any museums</h2>
 <p align="center">
-  <img width="1200" height="1000" src="/Painting/Question 1.png">
+  <img width="1000" height="1000" src="/Painting/Question 1.png">
 </p>
 
 
