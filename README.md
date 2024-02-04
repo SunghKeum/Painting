@@ -36,11 +36,6 @@ for file in files:
   <img width="1000" height="1000" src="/Painting/Question 1.png">
 </p>
 
-<h2>Question 1: Retrieve all the paintings which are not displayed on any museums</h2>
-<p align="center">
-  <img width="1000" height="1000" src="/Painting/Question 1.png">
-</p>
-
 <h2>Question 2: Are there museums without any paintings?</h2>
 <p align="center">
   <img width="1000" height="1000" src="/Painting/Question 2.png">
