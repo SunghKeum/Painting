@@ -32,7 +32,9 @@ for file in files:
     df.to_sql(file, con=conn, if_exists='replace', index=False)
 ```
 <h2>Question 1: Retrieve all the paintings which are not displayed on any museums</h2>
-
+<p align="center">
+  <img width="1000" height="400" src="/Painting/Question 1.png">
+</p>
 
 
 
