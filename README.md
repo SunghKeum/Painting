@@ -31,4 +31,6 @@ for file in files:
     df = pd.read_csv(f'C:\\Users\\sungh\\OneDrive\\Desktop\\archive\\{file}.csv')
     df.to_sql(file, con=conn, if_exists='replace', index=False)
 ```
+<h3>Question 1: Retrieve all the paintings which are not displayed on any museums</h3>
+
 
