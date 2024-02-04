@@ -83,7 +83,7 @@ for file in files:
 
 <h2>Question 11: Which museum has the most number of popular painting style?</h2>
 <p align="center">
-  <img width="1000" height="1000" src="/Painting/Q1.png">
+  <img width="1000" height="1000" src="/Painting/Q11.png">
 </p>
 
 <h2>Question 12: Identify the artists whose paintings are displayed in multiple countries</h2>
