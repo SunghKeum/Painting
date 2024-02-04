@@ -4,6 +4,8 @@
 
 In this SQL project, I use Python packages (psycopg2, pandas, and sqlalchemy) under Jupyter Notebook environment to upload data from CSV files to PostgreSQL database tables. After import, I use SQL queries to answer several questions related to the famous paintings dataset. You can view the data used for this project [here](https://www.kaggle.com/datasets/mexwell/famous-paintings).
 
+The dataset consists of 8 separate CSV files containing information about artists, canvas size, museum, museum hours, painting, price of paintings, etc.
+
 <h2>🛠 Skills Acquired and Honed</h2>
 
 - Connecting Python to PostgreSQL Database Server
