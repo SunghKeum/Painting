@@ -14,7 +14,7 @@ In this SQL project, I use Python packages (psycopg2, pandas, and sqlalchemy) un
 - Window Functions (DENSE_RANK() & ROW_NUMBER())
 - Partitioning
 
-<h2>Uploading CSV files to PostgreSQL database using Python scripts</h2>
+<h2>📥 Uploading CSV files to PostgreSQL database using Python scripts</h2>
 
 ```
 import psycopg2
